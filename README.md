@@ -1,15 +1,14 @@
 
 # Olá pessoal!
 
-Meu nome é Gabriel Pelicano. Trabalho como Desenvolvedor Software desde 2019. Atualmente trabalho como Front End e procuro me aperfeiçoar todos os dias, sempre buscando um desafio novo. 🚀🚀🚀
+Meu nome é Gabriel Pelicano, sou formado em Ciência da Computação desde 2022 e atuo como Desenvolvedor de Software desde 2019. Estou constantemente em busca de aprimorar minhas habilidades, enfrentando desafios e adquirindo novos conhecimentos todos os dias. 
 
 Você gostaria de me encontrar?
-- 📫 **gapelicano97@gmail.com**
+ - **gapelicano97@gmail.com**
+- <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-borges-pelicano/">**Linkedin**</a>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-borges-pelicano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-borges-pelicano/" height="30" width="40" /></a>
-<a href="https://discord.gg/gaaa0578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gaaa0578" height="30" width="40" /></a>
-</p>
+
+
 
 
 
